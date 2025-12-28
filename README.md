@@ -31,6 +31,12 @@ git commit -m "Update website content"
 git push origin main
 ```
 
+### Development Workflow
+
+Contributors work on the `dev` branch.  
+The `main` branch is protected and updated only after review.
+
+
 Author 
 
 # AlfynxX & Sakayz
