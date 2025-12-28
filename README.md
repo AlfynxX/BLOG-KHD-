@@ -17,26 +17,38 @@ The core vision and concept remain entirely original.
 
 ## Getting Started
 
+## Development Workflow
+
+This project uses a separate development branch.
+
+All contributors should work on the `dev` branch.  
+The `main` branch is protected and updated only after review.
+
+---
+
 ### Clone Repository
 
 ```bash
 git clone https://github.com/Sakayz/pramuka-khd-website.git
 cd pramuka-khd-website
 
+Switch to Development Branch
 
-Push Changes
-git status
+git checkout dev
+
+If the dev branch is not available locally:
+
+git fetch origin
+git checkout -b dev origin/dev
+
+Upload Changes (Push to dev)
+
+After making changes:
+
 git add .
-git commit -m "Update website content"
-git push origin main
+git commit -m "Describe your changes"
+git push origin dev
 ```
-
-### Development Workflow
-
-Contributors work on the `dev` branch.  
-The `main` branch is protected and updated only after review.
-
-
 Author 
 
 # AlfynxX & Sakayz
