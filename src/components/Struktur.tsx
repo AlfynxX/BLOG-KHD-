@@ -27,6 +27,7 @@ const Struktur = () => {
         members: [
           { name: "Anggota 1 - Giat", photo: "/images/giat-1.jpg" },
           { name: "Anggota 2 - Giat", photo: "/images/giat-2.jpg" },
+          { name: "Anggota 2 - Giat", photo: "/images/giat-2.jpg" },
         ],
       },
     },
