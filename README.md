@@ -34,4 +34,4 @@ git push origin main
 Author
 
 # AlfynxX / Sakayz
-G
+Don’t forget to follow my GitHub account : https://github.com/Sakayz
