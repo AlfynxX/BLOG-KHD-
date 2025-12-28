@@ -31,7 +31,7 @@ git commit -m "Update website content"
 git push origin main
 ```
 
-Author
+Author 
 
-# AlfynxX / Sakayz
+# AlfynxX & Sakayz
 Don’t forget to follow my GitHub account : https://github.com/Sakayz
