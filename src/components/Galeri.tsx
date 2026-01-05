@@ -15,8 +15,8 @@ const Galeri = () => {
     {
       name: "ODA",
       images: [
-        "/images/oda-1.jpg",
-        "/images/oda-2.jpg",
+        "/images/oda/oda.jpg",
+        "/images/oda/oda2.jpg",
         "/images/oda-3.jpg",
         "/images/oda-4.jpg",
         "/images/oda-5.jpg",
