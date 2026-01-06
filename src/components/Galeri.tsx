@@ -111,18 +111,18 @@ const Galeri = () => {
         "/images/gathering-6.jpg",
       ],
     },
-    // Kolom ke-10 (dicomment agar tidak muncul)
-    // {
-    //   name: "Event Khusus",
-    //   images: [
-    //     "/images/event-1.jpg",
-    //     "/images/event-2.jpg",
-    //     "/images/event-3.jpg",
-    //     "/images/event-4.jpg",
-    //     "/images/event-5.jpg",
-    //     "/images/event-6.jpg",
-    //   ],
-    // },
+    
+    {
+      name: "BAKAT",
+      images: [
+        "/images/bakat/bakat1.jpg",
+        "/images/event-2.jpg",
+        "/images/event-3.jpg",
+        "/images/event-4.jpg",
+        "/images/event-5.jpg",
+        "/images/event-6.jpg",
+      ],
+    },
   ];
 
   const openGaleri = (galeri: GaleriItem) => {
