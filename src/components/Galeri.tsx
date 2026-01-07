@@ -16,9 +16,9 @@ const Galeri = () => {
       name: "ODA",
       images: [
         "/images/oda/oda.jpg",
-        "/images/oda/oda2.jpg",
-        "/images/oda-3.jpg",
-        "/images/oda-4.jpg",
+        "/images/oda/.jpg",
+        "/images/oda/oda3.jpg",
+        "/images/oda/oda4.jpg",
         "/images/oda-5.jpg",
         "/images/oda-6.jpg",
       ],
@@ -116,7 +116,7 @@ const Galeri = () => {
       name: "BAKAT",
       images: [
         "/images/bakat/bakat1.jpg",
-        "/images/event-2.jpg",
+        "/images/bakat/bakat.jpeg",
         "/images/event-3.jpg",
         "/images/event-4.jpg",
         "/images/event-5.jpg",
